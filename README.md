@@ -1,0 +1,4 @@
+vcg
+===
+
+Virtual Chinese Genome
